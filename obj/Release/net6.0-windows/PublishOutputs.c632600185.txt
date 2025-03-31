@@ -1,0 +1,5 @@
+C:\Users\John\Desktop\Projetos\consultarcep\bin\Release\net6.0-windows\publish\consultarcep.exe
+C:\Users\John\Desktop\Projetos\consultarcep\bin\Release\net6.0-windows\publish\consultarcep.dll
+C:\Users\John\Desktop\Projetos\consultarcep\bin\Release\net6.0-windows\publish\consultarcep.deps.json
+C:\Users\John\Desktop\Projetos\consultarcep\bin\Release\net6.0-windows\publish\consultarcep.runtimeconfig.json
+C:\Users\John\Desktop\Projetos\consultarcep\bin\Release\net6.0-windows\publish\consultarcep.pdb
